@@ -12,6 +12,7 @@ LG CNS **AM(Application Management/Modernization) Inspire Camp 6기** 과정 동
 |------|------|------|------|
 | 2026-07-06 | 1일차 | 웹 서비스 구조(FE·BE·DB), WS vs WAS | [보기](2026-07-06.md) |
 | 2026-07-07 | 2일차 | api 명세 규칙, spa·component | [보기](2026-07-07.md) |
+| 2026-07-08 | 3일차 | 개발환경(IDE·Live Server), HTML 태그·CSS 선택자 | [보기](2026-07-08.md) |
 
 ## 🗓 주간 회고 (YWT)
 | 주차 | 기간 | 링크 |
