@@ -2,7 +2,7 @@
 
 LG CNS **AM(Application Management/Modernization) Inspire Camp 6기** 과정 동안의 **Today I Learned** 기록.
 매일 배운 핵심 기술 개념과 트러블슈팅(에러·해결 과정)을 '나의 언어'로 정리한다.
-전략·맥락은 `lgcns-camp/캠프전략.md` 참조.
+전략·맥락은 `lgcns/캠프전략.md` 참조.
 
 - **사전학습** (2026-07-06 ~ 07-23): 웹 서비스 이해 · Git · Java · React (25강)
 - **본교육** (2026-07-24 ~): Cloud · MSA · DevOps 등
