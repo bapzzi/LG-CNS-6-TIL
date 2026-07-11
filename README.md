@@ -14,6 +14,8 @@ LG CNS **AM(Application Management/Modernization) Inspire Camp 6기** 과정 동
 | 2026-07-07 | 2일차 | api 명세 규칙, spa·component | [보기](2026-07-07.md) |
 | 2026-07-08 | 3일차 | 개발환경(IDE·Live Server), HTML 태그·CSS 선택자 | [보기](2026-07-08.md) |
 | 2026-07-09 | 4일차 | Git vs GitHub, 버전 관리·staging·commit | [보기](2026-07-09.md) |
+| 2026-07-10 | 5일차 | Commit 실습, reset·revert, branch 개념 | [보기](2026-07-10.md) |
+| 2026-07-11 | 6일차 | Branch 생성·전환·삭제, merge·rebase·fast-forward | [보기](2026-07-11.md) |
 
 ## 🗓 주간 회고 (YWT)
 | 주차 | 기간 | 링크 |
