@@ -16,6 +16,9 @@ LG CNS **AM(Application Management/Modernization) Inspire Camp 6기** 과정 동
 | 2026-07-09 | 4일차 | Git vs GitHub, 버전 관리·staging·commit | [보기](2026-07-09.md) |
 | 2026-07-10 | 5일차 | Commit 실습, reset·revert, branch 개념 | [보기](2026-07-10.md) |
 | 2026-07-11 | 6일차 | Branch 생성·전환·삭제, merge·rebase·fast-forward | [보기](2026-07-11.md) |
+| 2026-07-13 | 7일차 | merge·rebase 충돌 해결, 로컬을 GitHub 원격에 올리기 | [보기](2026-07-13.md) |
+
+> 📝 [TIL 개정 노트(2026-07-13)](_개정노트-2026-07-13.md) — 가독성 5규칙 정리 + 1·2일차 개정 고지.
 
 ## 🗓 주간 회고 (YWT)
 | 주차 | 기간 | 링크 |
