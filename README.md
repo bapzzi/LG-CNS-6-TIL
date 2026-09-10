@@ -1,5 +1,15 @@
 # LG CNS AM Inspire Camp 6기 — TIL
 
+## 목적
+LG CNS AM Inspire Camp 6기 본교육의 Today I Learned 공개 기록(bapzzi/LG-CNS-6-TIL). 축 = MIS×개발×AI.
+
+## 현재상태 (2026-09-10)
+본교육 진행 중 — `본교육/` 40파일(일차 TIL + 주간 총괄 + 총정리). 사전학습 시기 기록은 `_아카이브/`.
+
+## 다음 할 일
+- 매 수업일 TIL 작성·push(`til` 스킬). 캠프 종료 시 총괄 1편.
+
+
 LG CNS **AM(Application Management/Modernization) Inspire Camp 6기** 과정 동안의 **Today I Learned** 기록.
 매일 배운 핵심 기술 개념과 트러블슈팅(에러·해결 과정)을 '나의 언어'로 정리한다.
 
